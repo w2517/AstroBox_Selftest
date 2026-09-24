@@ -1,0 +1,27 @@
+{
+  "item": {
+    "name": "设备自检",
+    "description": "查看手环型号、系统版本、屏幕参数与 API 等级，并用红/绿条测试屏幕旋转是否正常。",
+    "preview": [
+      "cover.png"
+    ],
+    "icon": "icon.png",
+    "source_url": "https://github.com/w2517/AstroBox_Selftest",
+    "author": [
+      {
+        "name": "w2517",
+        "author_url": "https://github.com/w2517"
+      }
+    ]
+  },
+  "downloads": {
+    "o66": {
+      "version": "1.0.3",
+      "file_name": "rpk/com.vela.selftest.rpk"
+    },
+    "o66nfc": {
+      "version": "1.0.3",
+      "file_name": "rpk/com.vela.selftest.rpk"
+    }
+  }
+}
